@@ -14,8 +14,8 @@ dependencies:
   keyboard_utils_fork:
     git:
       url: https://github.com/tech-387/keyboard_utils.git
-  shared_preferences: 2.5.2
-  shared_preferences_android: 2.4.8
+  shared_preferences: ^2.3.4
+  shared_preferences_android: any
 
 dev_dependencies:
   flutter_lints: ^1.0.4
